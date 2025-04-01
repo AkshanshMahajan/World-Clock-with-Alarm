@@ -3,8 +3,6 @@ import pytz
 from tkinter import *
 from tkinter import ttk, messagebox
 import winsound
-from threading import Thread
-import time
 import uuid  # For unique alarm IDs
 
 # Create the main window
